@@ -12,6 +12,9 @@ InfoQ正在推进[“译者募集计划”](http://e.weibo.com/1746173800/yBvHFg
 <script type='text/javascript' src='http://m.shui.us/ravenjs/yBvHFg3be.js'>
 </script>
 
+<script type='text/javascript' src='http://m.shui.us/ravenjs/yxMmyhK7W.js'>
+</script>
+
 
 #前提
 为了参与海选译流程，你需要具备如下条件：
