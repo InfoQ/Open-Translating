@@ -9,7 +9,8 @@ Open-Translating
 InfoQ正在推进[“译者募集计划”](http://e.weibo.com/1746173800/yBvHFg3be)，为了让所有人能够更好的参与到内容翻译中来，我们
 采用github的方式进行译者海选。
 
-<script type='text/javascript' src='http://m.shui.us/ravenjs/yBvHFg3be.js'></script>
+<script type='text/javascript' src='http://m.shui.us/ravenjs/yBvHFg3be.js'>
+</script>
 
 
 #前提
