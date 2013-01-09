@@ -1,3 +1,4 @@
+#	Debunking the Misconceptions around IPv6
 In an industry full of Next Big Things, IPv6 is the biggest one that people don’t want. That’s the conclusion that we’ve reached at WildPackets. Based on feedback from our global customer base from AMER to APAC and EMEA, IPv6 is a technology that most companies have delayed installing as long as possible. Full implementation of IPv6 will require global cooperation, from Tier 1 backbone carriers down to individual desktops. However, new IPv4 addresses are dwindling – APNIC and RIPE are exhausted, and ARIN has moved to the final pre-exhaustion phase, including new inter-region transfer rules. Pressure is building to do the transition right.
 
 In order to make this easier, let’s look at some of the common misconceptions with this protocol.
