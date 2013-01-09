@@ -19,25 +19,25 @@ InfoQ正在推进[“译者募集计划”](http://e.weibo.com/1746173800/yBvHFg
 3. 懂得[markdown语法](daringfireball.net/projects/markdown/syntax#html)
 4. 对技术传播具有真挚的热心
 
-#流程
+#翻译流程
 
-0. 如果已经fork了本地项目请首先更新repo
-1. fork一篇英文内容
-2. 翻译内容，完成以后更新repo，然后提交pull request请求
-3. 审校群组的人员评定，通过issue进行讨论沟通
-4. 内容审核通过，则被merge到内容并在网站中发布
-
+0. 如果已经Fork了本地项目请首先更新Repo
+1. 翻译一篇未翻译的英文内容
+2. 翻译完成以后提交pull request请求
+3. 审校群组的人员评定，以pull request的先后顺序评定，针对翻译的内容在pull request中进行讨论沟通
+4. 内容审核通过，则被merge到内容并在InfoQ中文站发布
+5. 内容发布以后将会为被采纳的译者提供稿费（40元每千中文字）
 
 
 #审校流程
 
-当收到译者的pull request以后，InfoQ审校群组会进行审校，对于内容的审校将会通过issue进行讨论。
-
-编辑群组的审校人员列表，请查看[审校群组](#)。
+当收到译者的Pull Request以后，InfoQ审校群组会进行审校，并在Pull Request中进行讨论，通过审校的内容将会合并在Master中。
 
 
 #内容版权协议
 
-所有翻译的内容都是InfoQ英文站内容，保留所有版权，因任何形式翻译、再创作都需要经过InfoQ授权。
+1. 所有的内容版权都归InfoQ所有，任何人转载、再创作需要经过InfoQ授权；
+2. 翻译内容版权归InfoQ所有；
+3. InfoQ保留中文站最终解释权；
 
 
